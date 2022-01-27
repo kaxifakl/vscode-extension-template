@@ -1,11 +1,11 @@
+.github/**
 .vscode/**
-.vscode-test/**
-out/**
 node_modules/**
 src/**
 .gitignore
-webpack.config.js
+CHANGELOG.md
 **/tsconfig.json
+webpack.config.js
+
 **/*.ts
 **/*.map
-CHANGELOG.md
